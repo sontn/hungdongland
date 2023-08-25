@@ -2,7 +2,7 @@ baseURL: "https://hungdong.land"
 languageCode: en-us
 title: Hừng Đông Land
 theme: PaperMod
-paginate: 6
+paginate: 8
 
 params:
   env: production
@@ -31,14 +31,22 @@ outputs:
 
 menu:
   main:
-    - identifier: categories
-      name: Phân loại
-      url: /categories/
+    # - identifier: categories
+    #   name: Phân loại
+    #   url: /categories/
+    #   weight: 10
+    - identifier: categories1
+      name: Bất động sản giao bán
+      url: /categories/Bất động sản giao bán/
       weight: 10
-    - identifier: tags
-      name: Tags
-      url: /tags/
+    - identifier: categories2
+      name: Bất động sản cho thuê
+      url: /categories/Bất động sản cho thuê/
       weight: 20
+    # - identifier: tags
+    #   name: Tags
+    #   url: /tags/
+    #   weight: 20
     - identifier: archives
       name: Lưu trữ
       url: /archives/
