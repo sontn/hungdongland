@@ -6,7 +6,7 @@ cover:
     image: 'img/giaoban/giaoban.jpg'
     alt: 'Hừng Đông Land'
     caption: 'Hừng Đông Land'
-categories: ["Bất động sản giao bán"]
+categories: ["Bất động sản rao bán"]
 tags: ["Mua bán căn hộ Ecopark"]
 ---
 

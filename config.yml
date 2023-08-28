@@ -36,8 +36,8 @@ menu:
     #   url: /categories/
     #   weight: 10
     - identifier: categories1
-      name: Bất động sản giao bán
-      url: /categories/Bất động sản giao bán/
+      name: Bất động sản rao bán
+      url: /categories/Bất động sản rao bán/
       weight: 10
     - identifier: categories2
       name: Bất động sản cho thuê
